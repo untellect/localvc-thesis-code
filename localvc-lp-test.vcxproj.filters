@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="RManualTest.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="localectest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="balancedvctest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="DManualTest.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="EdgeIteratorTest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="EdgeIterator.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="graphbasicstest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="graphgentest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="graphnodetest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="graphtest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphgen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="unbalancedvctest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="utiltest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Optim.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Release2main.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="ReleaseMain.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="Release3main.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphIO.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Release4main.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="Sparse.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Henzinger.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="PairPreflowPush.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Benchmark.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Mains.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="Benchmarker.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessing.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="graph2basicstest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="graph2test.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="localec2test.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="manual_tests.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="old_mains.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="Localec-templated.h">
+      <Filter>headers\graph1</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph2.cpp">
+      <Filter>src\graph2</Filter>
+    </ClCompile>
+    <ClCompile Include="localec2.cpp">
+      <Filter>src\graph2</Filter>
+    </ClCompile>
+    <ClCompile Include="find_vc.cpp">
+      <Filter>src\graph1</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>src\graph1</Filter>
+    </ClCompile>
+    <ClCompile Include="Localec.cpp">
+      <Filter>src\graph1</Filter>
+    </ClCompile>
+    <ClCompile Include="Localvc3.cpp">
+      <Filter>src\graph3</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxFlow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="maxflowtest.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="Globalvc2.cpp">
+      <Filter>src\graph2</Filter>
+    </ClCompile>
+    <ClCompile Include="globalvc.cpp">
+      <Filter>src\graph1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{4daa9454-e0a5-4c7a-8c8c-a17587ad504b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{60dfc3af-bbbd-4e5c-90b9-ad9c3c2285d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test">
+      <UniqueIdentifier>{66f86dbf-72b4-4c83-bcce-7d2c334bb003}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mains">
+      <UniqueIdentifier>{d6339866-87df-4ec4-91dc-283feea56af9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="misc">
+      <UniqueIdentifier>{d9f3a27d-8b0a-4635-b875-d42af358389c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers\graph1">
+      <UniqueIdentifier>{b7735b3c-a970-4bb7-ad64-500ec7e519e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers\graph2">
+      <UniqueIdentifier>{bd776a80-4946-4c08-9c61-3b5458b00afa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers\graph3">
+      <UniqueIdentifier>{7c67a82d-082b-4a08-b367-0a11c9b42de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers\graph-all">
+      <UniqueIdentifier>{542201d5-4552-48f3-9337-b4da642ba724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graph1">
+      <UniqueIdentifier>{40bff5e7-31d2-48ee-b460-b34bf3e23e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graph2">
+      <UniqueIdentifier>{23a5fce8-9a34-465a-b083-64becce4d7f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graph3">
+      <UniqueIdentifier>{672e9d62-abd0-4065-9daf-33062ae62683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\graph-all">
+      <UniqueIdentifier>{379475d6-6c64-4e07-9f66-62ae5209fa3e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="localectest.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="unbalancedvctest.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="Optim.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxFlow.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Sparse.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Henzinger.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PairPreflowPush.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Benchmark.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Mains.h">
+      <Filter>mains</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Benchmarker.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="preprocessing.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="localec2test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>headers\graph1</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph2.h">
+      <Filter>headers\graph2</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph3.h">
+      <Filter>headers\graph3</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphgen.h">
+      <Filter>headers\graph-all</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphIO.h">
+      <Filter>headers\graph-all</Filter>
+    </ClInclude>
+    <ClInclude Include="Localvc.h">
+      <Filter>headers\graph1</Filter>
+    </ClInclude>
+    <ClInclude Include="localvc2.h">
+      <Filter>headers\graph2</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>headers\graph-all</Filter>
+    </ClInclude>
+    <ClInclude Include="Localvc3.h">
+      <Filter>headers\graph3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
