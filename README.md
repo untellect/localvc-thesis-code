@@ -16,4 +16,4 @@ Random hyperbolic graphs and real world graphs are stored at "./DATA/".
 Random hyperbolic graphs are pregenerated using [NetworKIT](https://networkit.github.io/).
 The files are named {a}-{b}-{c}+{d}.txt where the graph has 2^a vertices, average degree 2^b and power law factor c. The number d distinguishes graphs generated with the same parameters.
 The exact random hyperbolic graphs used up to 2^17 vertices are included, but not 2^18 vertices.
-One out of three real world graphs is included. The other two can be found [here](https://snap.stanford.edu/data/soc-LiveJournal1.html) and [here](https://snap.stanford.edu/data/web-BerkStan.html).
+One out of three real world graphs is included. The other two can be found [here](https://snap.stanford.edu/data/com-LiveJournal.html) and [here](https://snap.stanford.edu/data/web-BerkStan.html).
